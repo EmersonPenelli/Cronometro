@@ -1,0 +1,14 @@
+D:\Balta\Cronometro\bin\Debug\net8.0\Cronometro.exe
+D:\Balta\Cronometro\bin\Debug\net8.0\Cronometro.deps.json
+D:\Balta\Cronometro\bin\Debug\net8.0\Cronometro.runtimeconfig.json
+D:\Balta\Cronometro\bin\Debug\net8.0\Cronometro.dll
+D:\Balta\Cronometro\bin\Debug\net8.0\Cronometro.pdb
+D:\Balta\Cronometro\obj\Debug\net8.0\Cronometro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Balta\Cronometro\obj\Debug\net8.0\Cronometro.AssemblyInfoInputs.cache
+D:\Balta\Cronometro\obj\Debug\net8.0\Cronometro.AssemblyInfo.cs
+D:\Balta\Cronometro\obj\Debug\net8.0\Cronometro.csproj.CoreCompileInputs.cache
+D:\Balta\Cronometro\obj\Debug\net8.0\Cronometro.dll
+D:\Balta\Cronometro\obj\Debug\net8.0\refint\Cronometro.dll
+D:\Balta\Cronometro\obj\Debug\net8.0\Cronometro.pdb
+D:\Balta\Cronometro\obj\Debug\net8.0\Cronometro.genruntimeconfig.cache
+D:\Balta\Cronometro\obj\Debug\net8.0\ref\Cronometro.dll
